@@ -1,0 +1,15 @@
+#png {
+	align-content: center; image
+}
+
+table, th, td {
+	margin-right: auto;
+	margin-left: auto;
+	border: 3px solid;
+	padding: 5px;
+	border-color: darkred;
+}
+
+div {
+	align-content: center;
+}
